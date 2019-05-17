@@ -1,0 +1,6 @@
+Cambios a Captura de Fotos IA
+-----------------------------
+
+1.0.0 Mayo 08, 2019 
+
+    Proyecto terminado en su totalidad.

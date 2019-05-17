@@ -1,0 +1,26 @@
+﻿CAPTURA DE FOTOS IA VISIÓN GENERAL DE INSTLACIÓN
+
+Guia Rápida - Windows
+---------------------
+
+Para una documentación completa, revise el documento denominado
+"Informe.pdf" dentro de esta misma carpeta.
+
+    NOTAS: *Para hacer uso del programa, se recomienda tener instalado un 
+            servidor local, para dicho propósito utilizar Web Server for 
+            Chrome, el cual es una APP del navegador que lleva el mismo nombre.
+            Esta APP es compatible con cualquier versión de Windows, solo es 
+            necesario tener instalado el navegador de Google.
+
+
+INSTALACIÓN
+1. Ejecutar el servidor local (Web Server for Chrome)
+
+2. En las opciones de configuración, seleccionar la carpeta que contiene todos los ficheros
+utilizados como: index.html, directorios CSS y JavaScript, etc.
+
+3. Ir a la dirección URL que se muestra en la opción Web Server URL(s) para abrir una 
+pestaña en el navegador, el cual mostrará el contenido del archivo index.html, el cual será
+la página que permitirá interactuar con el programa.
+
+4. Disfrute del producto final.

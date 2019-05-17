@@ -1,0 +1,10 @@
+                        Captura de Fotos IA
+                      Version 1.0.0, Mayo 2019
+
+Copyright (C) 2019, Alejandro Guerrero <alejandro.guerrero@epn.edu.ec>
+
+All rights reserved.
+
+Permiso para usar, copiar, modificar, y distribuir este software para cualquier
+propósito. Se otorga con o sin cargo, siempre que el aviso de Copyright anterior
+y este aviso de permiso aparezcan en todas las copias.
